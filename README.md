@@ -1,5 +1,5 @@
 # Pre-installations - Run these before starting the program 
-npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/material @emotion/react @emotion/styled \
 npm install @mui/icons-material
 
 
